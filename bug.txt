@@ -1,0 +1,4 @@
+provider "aws" {
+    ami-id = XXXXXXXXXXXXXX
+    instance-type=t2.micro
+}
