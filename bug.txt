@@ -1,4 +1,4 @@
 provider "aws" {
     ami-id = XXXXXXXXXXXXXX
-    instance-type=t2.micro
+    instance-type=t3.medium
 }
